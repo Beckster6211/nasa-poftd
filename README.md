@@ -1,4 +1,4 @@
-<img src = "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px" >
+<center><img src = "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px" ></center>
 
 # Picture Of The Day :milky_way:
 
@@ -39,8 +39,6 @@ Picture #4 is of the Nasa logo
 :video_camera:
 
 There are also some links at the bottom of the page that will takes you to videos showing the Apollo 11 mission :smiley:
-
-&nbsp;
 
 <div align="center">
 :full_moon_with_face:&nbsp;&nbsp;
