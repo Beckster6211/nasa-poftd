@@ -22,6 +22,15 @@ When a date has been selected you are presented with the picture of the day for 
 
 https://api.nasa.gov/
 
+### Want to see :eyes:
+
+If you want to see the site you can look on the link at the hosted version...
+https://blj-nasa-potd.netlify.app/
+
+Or
+
+Alternatively you can do the command npm run start in the terminal and a localhost version will open...
+
 ###### If your interested :smiley:
 
 :camera:
@@ -40,7 +49,8 @@ Picture #4 is of the Nasa logo
 
 There are also some links at the bottom of the page that will takes you to videos showing the Apollo 11 mission :thumbsup:
 
-<div align="center">
+# <div align="center">
+
 :full_moon_with_face:&nbsp;&nbsp;
 :waning_gibbous_moon:&nbsp;&nbsp;
 :last_quarter_moon:&nbsp;&nbsp;
@@ -50,4 +60,5 @@ There are also some links at the bottom of the page that will takes you to video
 :first_quarter_moon:&nbsp;&nbsp;
 :waxing_gibbous_moon:&nbsp;&nbsp;
 :full_moon_with_face:&nbsp;&nbsp;
+
 </div>
