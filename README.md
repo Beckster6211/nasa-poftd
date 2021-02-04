@@ -1,4 +1,4 @@
-<img style = "text-align: centre" src = "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px" >
+<img src = "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px" >
 
 # Picture Of The Day :milky_way:
 
@@ -16,7 +16,7 @@ Dates shown monthly with an up and down arrow (on the top right hand side) allow
 
 When a date has been selected you are presented with the picture of the day for that day as well as a heading of what the picture is and a description detailing the photo.
 
-#### :calendar: If your born after 16th June 1995 (earliest that can go back) you can get Nasa's picture of the day on the day you were born... (pretty cool, I'm to old... :sob: )
+#### :calendar: If your born after 16th June 1995 (earliest that can go back) you can get Nasa's picture of the day on the day you were born... (pretty cool, I'm to old though... :sob: )
 
 ### Api used :rocket:
 
@@ -30,7 +30,7 @@ The pictures above the calendar:
 
 Picture #1 is of commander Eugene Cernan (Apollo 17) credited as being "The last man on the moon".
 
-Picture #2 is of the Apollo 11 landing crew from left to right Commander Neil Armstrong, Command Pilot Michael Collins and Lunar Pilot Edwin "Buzz" Aldrin.
+Picture #2 is of the Apollo 11 landing crew from left to right Commander Neil Armstrong, Command Pilot Michael Collins('The Forgotten Man') and Lunar Pilot Edwin "Buzz" Aldrin.
 
 Picture #3 is of what I believe is Nasa and historys most iconic moment, Neil Armstrong first step on the moon.
 
