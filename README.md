@@ -1,4 +1,4 @@
-<img style = "text=-align: center" src = "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px" >
+<img style = "text-align: center" src = "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px" >
 
 # Picture Of The Day :milky_way:
 
