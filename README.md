@@ -1,4 +1,4 @@
-<img style= "text-align: center" src = "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px" >
+<img src = "https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s900-c-k-c0x00ffffff-no-rj" width="100px" height="100px" >
 
 # Picture Of The Day :milky_way:
 
@@ -22,7 +22,9 @@ When a date has been selected you are presented with the picture of the day for 
 
 https://api.nasa.gov/
 
-###### FYI :camera:
+###### If your interested
+
+:camera:
 
 The pictures above the calendar:
 
@@ -33,3 +35,7 @@ Picture #2 is of the Apollo 11 landing crew from left to right Commander Neil Ar
 Picture #3 is of what I believe is Nasa and historys most iconic moment, Neil Armstrong first step on the moon.
 
 Picture #4 is of the Nasa logo
+
+:video_camera:
+
+There are also some links at the bottom of the page that will takes you to videos showing the Apollo 11 mission :smiley:
