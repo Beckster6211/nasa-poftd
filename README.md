@@ -40,6 +40,8 @@ Picture #4 is of the Nasa logo
 
 There are also some links at the bottom of the page that will takes you to videos showing the Apollo 11 mission :smiley:
 
+<br>
+<div className = "App">
 :full_moon_with_face:&nbsp;&nbsp;
 :waning_gibbous_moon:&nbsp;&nbsp;
 :last_quarter_moon:&nbsp;&nbsp;
@@ -49,3 +51,4 @@ There are also some links at the bottom of the page that will takes you to video
 :first_quarter_moon:&nbsp;&nbsp;
 :waxing_gibbous_moon:&nbsp;&nbsp;
 :full_moon_with_face:&nbsp;&nbsp;
+</div>
