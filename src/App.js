@@ -29,6 +29,7 @@ function App() {
           Splash down
         </a>
       </div>
+      &nbsp; &nbsp; &nbsp;
     </div>
   );
 }
