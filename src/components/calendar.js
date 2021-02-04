@@ -23,7 +23,6 @@ function Calendar() {
         min="1995-06-16"
         max=""
       ></input>
-
       <PictureOfTheDay date={date} />
     </div>
   );

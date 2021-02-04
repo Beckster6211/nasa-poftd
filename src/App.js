@@ -1,11 +1,11 @@
 import "./App.css";
 import Calendar from "./components/calendar";
-import Background from "./components/background";
+import Images from "./components/images";
 
 function App() {
   return (
     <div>
-      <Background />
+      <Images />
       <div className="App">
         <Calendar />
       </div>
