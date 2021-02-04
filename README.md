@@ -40,4 +40,12 @@ Picture #4 is of the Nasa logo
 
 There are also some links at the bottom of the page that will takes you to videos showing the Apollo 11 mission :smiley:
 
-:new_moon_with_face::waxing_cresent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon_with_face::moon::waning_gibbous_moon::last_quarter_moon:
+:full_moon_with_face:
+:waning_gibbous_moon:
+:last_quarter_moon:
+:waning_crescent_moon:
+:new_moon_with_face:
+:waxing_crescent_moon:
+:first_quarter_moon:
+:waxing_gibbous_moon:
+:full_moon_with_face:
