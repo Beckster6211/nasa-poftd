@@ -32,7 +32,9 @@ function Images() {
         }
         alt={"Nasa logo"}
       />
-      <p className="quote">"One small step for man..."</p>
+      <p className="quote">
+        "One small step for man. One giant leap for mankind"
+      </p>
     </div>
   );
 }
