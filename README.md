@@ -22,7 +22,7 @@ When a date has been selected you are presented with the picture of the day for 
 
 https://api.nasa.gov/
 
-###### If your interested
+###### If your interested :smiley:
 
 :camera:
 
@@ -38,7 +38,7 @@ Picture #4 is of the Nasa logo
 
 :video_camera:
 
-There are also some links at the bottom of the page that will takes you to videos showing the Apollo 11 mission :smiley:
+There are also some links at the bottom of the page that will takes you to videos showing the Apollo 11 mission :thumbsup:
 
 <div align="center">
 :full_moon_with_face:&nbsp;&nbsp;
