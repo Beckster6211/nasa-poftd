@@ -21,3 +21,15 @@ When a date has been selected you are presented with the picture of the day for 
 ### Api used :rocket:
 
 https://api.nasa.gov/
+
+###### FYI :camera:
+
+The pictures above the calendar:
+
+Picture #1 is of commander Eugene Cernan (Apollo 17) credited as being "The last man on the moon".
+
+Picture #2 is of the Apollo 11 landing crew from left to right Commander Neil Armstrong, Command Pilot Michael Collins and Lunar Pilot Edwin "Buzz" Aldrin.
+
+Picture #3 is of what I believe is Nasa and historys most iconic moment, Neil Armstrong first step on the moon.
+
+Picture #4 is of the Nasa logo
