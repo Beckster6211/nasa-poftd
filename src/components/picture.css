@@ -1,0 +1,12 @@
+.image {
+  width: auto;
+  height: 500px;
+}
+
+.pictureDescription {
+  text-align: center;
+  padding: 2%;
+  margin: 2%;
+  color: white;
+  font-weight: 600;
+}

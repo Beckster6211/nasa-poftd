@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import PictureOfTheDay from "./picture";
+import "./calendar.css";
 
 function Calendar() {
   let currentDatetime = new Date();
@@ -14,7 +15,7 @@ function Calendar() {
 
   return (
     <div>
-      <p className="image"> Select a date:</p>
+      <p className="dateHeading"> Select a date:</p>
       <input
         onChange={(event) => setDate(event.target.value)}
         type="date"
