@@ -5,10 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYeIT3QlcFe_i1yl2cdDtUH6XxorbGRUPVNA&usqp=CAU");
+  background-image: url("./components/Space_sloth_for_web.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
 }
 
 code {
