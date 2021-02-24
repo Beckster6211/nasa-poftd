@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import "./picture.css";
 
 function PictureOfTheDay({ date }) {
   const [picture, setPicture] = useState({});
@@ -22,9 +23,9 @@ function PictureOfTheDay({ date }) {
 
   return (
     <div>
-      <h1 className="image"> {picture?.title} </h1>
-      <img src={picture?.url} width={"auto"} height={"500px"}></img>
-      <p className="image"> {picture?.explanation} </p>
+      <h1 className="pictureDescription"> {picture?.title} </h1>
+      <img className="image" src={picture?.url}></img>
+      <p className="pictureDescription"> {picture?.explanation} </p>
     </div>
   );
 }
